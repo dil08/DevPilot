@@ -1,0 +1,6 @@
+{
+  "name": "DevPilot AI — Project Titanium X",
+  "description": "Autonomous AI repository intelligence platform with real-time 3D WebGL Neural Reactor visualization, TypeScript AST parsing, dependency graph retrieval, and six specialized engineering agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
